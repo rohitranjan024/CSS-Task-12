@@ -1,0 +1,55 @@
+body{
+    position:relative;
+    background-color: rgb(225, 232, 225);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.image{
+    margin-left: 650px;
+    margin-top: 95px;
+    margin-bottom: 32px;
+}
+
+img.avatar{
+    width:25%;
+    border-radius: 50%;;
+}
+
+div.detail{
+    margin-left: 35%;
+}
+
+.usern{
+    width:50%;
+    padding: 4px 0 4px 5px;
+}
+
+.passw{
+    width:50%;
+    padding: 4px 0 4px 5px;
+}
+
+.log{
+    width:51%;
+    padding: 5px 0;
+    border: none;
+    background-color: green;
+    color:aliceblue;
+}
+
+div.fpb{
+    margin-left: 35%;
+    margin-right: 32%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(189, 183, 183);
+}
+
+.my-button {
+    margin-right: 58%;
+    background-color: tomato; 
+    color:aliceblue;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+  }
